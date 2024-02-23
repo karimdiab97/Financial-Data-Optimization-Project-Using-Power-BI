@@ -29,6 +29,6 @@ Tables and columns were renamed to provide more meaningful and descriptive label
 ➡️ Tools: Power BI & Figma
 
 ## Image:
-![image](https://github.com/karimdiab97/Financial-Data-Optimization-Project-Using-Power-BI/assets/101432419/dfe41948-734e-4a67-af60-f2884c2cee01)
+![Dashbaord](https://github.com/karimdiab97/Financial-Data-Optimization-Project-Using-Power-BI/assets/101432419/4ecc8936-9ad1-4cb3-aa13-882b6f2c09c6)
 ![DIM_Model](https://github.com/karimdiab97/Financial-Data-Optimization-Project-Using-Power-BI/assets/101432419/6b0c6cda-380b-4db4-b070-965034d88a36)
 
