@@ -30,3 +30,5 @@ Tables and columns were renamed to provide more meaningful and descriptive label
 
 ## Image:
 ![image](https://github.com/karimdiab97/Financial-Data-Optimization-Project-Using-Power-BI/assets/101432419/dfe41948-734e-4a67-af60-f2884c2cee01)
+![image](https://github.com/karimdiab97/Financial-Data-Optimization-Project-Using-Power-BI/assets/101432419/9e12f9de-9c25-4e2e-a3ea-c1effc0b39c7)
+
